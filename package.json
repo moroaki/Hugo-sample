@@ -1,0 +1,12 @@
+{
+  "name": "hugo.practice",
+  "version": "1.0.0",
+  "description": "Hugo Practice YEAH",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "watch:hugo-lithium-theme": "hugo server -t hugo-lithium-theme -w",
+    "build:hugo-lithium-theme": "hugo -t hugo-lithium-theme"
+  }
+}

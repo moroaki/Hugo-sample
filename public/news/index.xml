@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Hugo Practice Site</title>
+    <link>http://example.org/news/</link>
+    <description>Recent content in News on Hugo Practice Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 12 Oct 2020 18:41:09 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>三番目の記事</title>
+      <link>http://example.org/news/third/</link>
+      <pubDate>Mon, 12 Oct 2020 18:41:09 +0900</pubDate>
+      
+      <guid>http://example.org/news/third/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2番目の記事</title>
+      <link>http://example.org/news/second/</link>
+      <pubDate>Mon, 12 Oct 2020 17:34:27 +0900</pubDate>
+      
+      <guid>http://example.org/news/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>最初の記事</title>
+      <link>http://example.org/news/first/</link>
+      <pubDate>Mon, 12 Oct 2020 15:46:48 +0900</pubDate>
+      
+      <guid>http://example.org/news/first/</guid>
+      <description>こんにちは、Hugo を始めました。
+Markdown 記法 Markdown の書き方は以下のサイトが参考になります。
+ ここはコードです
+ Wikipedia Qiita 日本語 Markdown ユーザー会  </description>
+    </item>
+    
+  </channel>
+</rss>

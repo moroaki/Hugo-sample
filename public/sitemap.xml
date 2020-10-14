@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-10-12T18:41:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/</loc>
+    <lastmod>2020-10-12T18:41:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/third/</loc>
+    <lastmod>2020-10-12T18:41:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/event/</loc>
+    <lastmod>2020-10-12T18:40:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/event/first_event/</loc>
+    <lastmod>2020-10-12T18:40:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/second/</loc>
+    <lastmod>2020-10-12T17:34:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-10-12T15:46:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/hello/</loc>
+    <lastmod>2020-10-12T15:46:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/hugo/</loc>
+    <lastmod>2020-10-12T15:46:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tag/</loc>
+    <lastmod>2020-10-12T15:46:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-10-12T15:46:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/first/</loc>
+    <lastmod>2020-10-12T15:46:48+09:00</lastmod>
+  </url>
+  
+</urlset>
