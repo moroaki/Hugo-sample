@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "watch:hugo-lithium-theme": "hugo server -t hugo-lithium-theme -w",
-    "build:hugo-lithium-theme": "hugo -t hugo-lithium-theme"
+    "watch:ananke": "hugo server -t ananke -w",
+    "build:ananke": "hugo -t ananke"
   }
 }
